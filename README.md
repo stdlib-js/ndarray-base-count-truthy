@@ -100,7 +100,7 @@ var x = {
     'order': 'row-major'
 };
 
-// Test elements:
+// Perform operation:
 var out = countTruthy( [ x ] );
 // returns 6
 ```
@@ -145,7 +145,7 @@ var countTruthy = require( '@stdlib/ndarray-base-count-truthy' );
 
 var x = {
     'dtype': 'generic',
-    'data': bernoulli( 10, 0.9, {
+    'data': bernoulli( 10, 0.75, {
         'dtype': 'generic'
     }),
     'shape': [ 5, 2 ],
@@ -2230,7 +2230,7 @@ int main( void ) {
     // Define an array containing the ndarrays:
     struct ndarray *arrays[] = { x, y };
 
-    // Test elements:
+    // Perform operation:
     int8_t status = stdlib_ndarray_count_truthy_b_i( arrays );
     if ( status != 0 ) {
         fprintf( stderr, "Error during computation.\n" );
