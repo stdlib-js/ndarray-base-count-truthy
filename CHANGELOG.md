@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e700afd`](https://github.com/stdlib-js/stdlib/commit/e700afd0526ff2cc8f78cdb8743c749eceb09dd6) - **docs:** update type _(by Athan Reines)_
 -   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
 -   [`f425761`](https://github.com/stdlib-js/stdlib/commit/f425761ec069b02489419f9982cc3f6f83799c53) - **docs:** update comment _(by Athan Reines)_
 -   [`4bbd8c3`](https://github.com/stdlib-js/stdlib/commit/4bbd8c3b489a7a170d00f1330051b526407f9194) - **docs:** update example _(by Athan Reines)_
