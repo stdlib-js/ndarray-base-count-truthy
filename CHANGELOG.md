@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-01)
+## Unreleased (2025-11-21)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`f870646`](https://github.com/stdlib-js/stdlib/commit/f870646312fdbc9c2fb63bcfa7094cf889ed75f1) - **test:** add tests to `ndarray/base/count-truthy` [(#8301)](https://github.com/stdlib-js/stdlib/pull/8301) _(by Muhammad Haris, Athan Reines)_
 -   [`12d0130`](https://github.com/stdlib-js/stdlib/commit/12d013004ea30a7d6eaf515df4875eee42feee89) - **fix:** address off-by-one bug _(by Athan Reines)_
 -   [`e700afd`](https://github.com/stdlib-js/stdlib/commit/e700afd0526ff2cc8f78cdb8743c749eceb09dd6) - **docs:** update type _(by Athan Reines)_
 -   [`a3e7978`](https://github.com/stdlib-js/stdlib/commit/a3e79786217bf1c9a84875203251af82cc93a222) - **docs:** update markup _(by Athan Reines)_
@@ -51,9 +52,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Muhammad Haris
 
 </section>
 
