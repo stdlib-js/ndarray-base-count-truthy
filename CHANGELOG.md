@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-21)
+## Unreleased (2025-12-29)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`322b8cb`](https://github.com/stdlib-js/stdlib/commit/322b8cb870769d9198ddbcd0b89610b185ab57ff) - **build:** ensure dtypes are strings _(by Athan Reines)_
 -   [`f870646`](https://github.com/stdlib-js/stdlib/commit/f870646312fdbc9c2fb63bcfa7094cf889ed75f1) - **test:** add tests to `ndarray/base/count-truthy` [(#8301)](https://github.com/stdlib-js/stdlib/pull/8301) _(by Muhammad Haris, Athan Reines)_
 -   [`12d0130`](https://github.com/stdlib-js/stdlib/commit/12d013004ea30a7d6eaf515df4875eee42feee89) - **fix:** address off-by-one bug _(by Athan Reines)_
 -   [`e700afd`](https://github.com/stdlib-js/stdlib/commit/e700afd0526ff2cc8f78cdb8743c749eceb09dd6) - **docs:** update type _(by Athan Reines)_
